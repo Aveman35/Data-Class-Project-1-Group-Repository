@@ -8,7 +8,7 @@
 #1. Analysis on Number of fires for 2012-2022 (Human vs lightning)
 #2. Anaylsis on Total Acres Burned for 2012 - 2022 (Human vs lightning)
 #3. Analysis on General Cause of fires for 2012 - 2022
-#4. Analysis on Districts  with the most fires (Top 10 or bigger if it makes sense)
+#4. Analysis on Districts  with the most fires
 #5. Analysis on number of fires per month per year 2012 - 2022 (June-October)
 
 #Timeline for project
