@@ -1,6 +1,6 @@
 # Oregon Forest Fire Analysis
 
-In this exploratory analysis of oregon forest fires between the years 2000-2022, we uncovered the most common causes of these fires throughout the years, the total acreage burned thoughout the years, as well as the total acerage burned each year and where. While searching for a data source we discovered that the Oregon Department of Forestry had collected fire data from 2000-2022, and posted it to Data.gov for public use. This allowed us to download the complete CSV file and begin our cleaning and analysis portion of the project.
+In this exploratory analysis of Oregon forest fires between the years 2000-2022, we uncovered the most common causes of these fires throughout the years, the total acreage burned thoughout the years, as well as the total acerage burned each year and where. While searching for a data source we discovered that the Oregon Department of Forestry had collected fire data from 2000-2022, and posted it to Data.gov for public use. This allowed us to download the complete CSV file and begin our cleaning and analysis portion of the project.
 
 Utilizing DataFrames though Pandas, we were able to separate the necessary columns to allow us to begin sorting and plotting our data using Matplotlib, through four different visualization tactics, we were able to come to a few different conclusions.
 
