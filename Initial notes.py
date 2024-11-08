@@ -1,4 +1,4 @@
-#What we are planning to do wiht the data 
+#What we are planning to do with the data 
 
 #Source - Dashboard: https://data.oregon.gov/stories/s/ODF-Fire-History-2000-2022-Dashboard/92y3-mdk3
 #Source - CSV and JSON: https://catalog.data.gov/dataset/odf-fire-occurrence-data-2000-2022
